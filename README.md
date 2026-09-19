@@ -1,5 +1,5 @@
 ## Hello people, I'm Harrison 👋
-#Security Engineering & Cloud Security
+# Security Engineering & Cloud Security
 1+yrs paid Cybersecurity experience
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harrison-smith-152914220/)
